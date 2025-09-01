@@ -20,6 +20,13 @@ Project ini dibuat sebagai bagian dari pengalaman magang & portfolio untuk menun
 
 ---
 
+## 📸 Screenshots
+| Login | Home | History |
+|-------|------|---------|
+| ![Login](screenshots/login.jpg) | ![Home](screenshots/home.jpg) | ![History](screenshots/history.jpg) |
+
+---
+
 👤 **Author**: Indrany Apriliana Shanty  
 - LinkedIn: [linkedin.com/in/indrany-apriliana](https://linkedin.com/in/indrany-apriliana)  
-- GitHub: [github.com/indrany](https://github.com/indrany)  
+- GitHub: [github.com/indrany](https://github.com/indrany)
